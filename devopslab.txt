@@ -82,7 +82,7 @@ ngrok http 8080
 
 
 script.sh
-
+#!/bin/bash
 echo "hello world!"
 echo "Jenkins runed successfully!"
 
